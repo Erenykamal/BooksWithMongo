@@ -32,3 +32,4 @@ D:\Work\bookapiMngo\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csproj.Co
 D:\Work\bookapiMngo\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.dll
 D:\Work\bookapiMngo\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.pdb
 D:\Work\bookapiMngo\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.genruntimeconfig.cache
+D:\Work\bookapiMngo\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csprojAssemblyReference.cache

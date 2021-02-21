@@ -16,7 +16,7 @@ namespace BooksApi.Models
         public string bookName { get; set; }
         public string Cotegory { get; set; }
         public string Auther { get; set; }
-        public string Price { get; set; }
+        public decimal Price { get; set; }
 
 
     }
