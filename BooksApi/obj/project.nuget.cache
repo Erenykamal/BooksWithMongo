@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gAhoN7ycGfVZ/bV69B4Yg1Ehz8+mKKKG0hMbtfV77+BW6YVY6dSv8xLqRooQnQk0aNo1hexr/XVZfTBb1q1TAA==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\bookapiMngo\\BooksApi\\BooksApi\\BooksApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ereny.kamal\\.nuget\\packages\\mongodb.bson\\2.11.6\\mongodb.bson.2.11.6.nupkg.sha512"
+  ],
+  "logs": []
+}
